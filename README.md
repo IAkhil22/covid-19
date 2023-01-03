@@ -32,8 +32,7 @@ Create a model to predict whether a patient will die bases no symptoms
 
 
 Findings on Missing Data:
-The datas[readme.txt](https://github.com/IAkhil22/covid-19/files/10334366/readme.txt)
-et has a description that all values like 97, 98, 99 are missing values.
+The dataset has a description that all values like 97, 98, 99 are missing values.
 Only 3 columns contain records with value = 97. They are PREGNANT, ICU, INTUBED.
 
 All men have value = 97 for pregnant feature. It means that men can't be pregnant. As I understand value = 99 for this column is really missing value when doctors didn't have enough information about pregnancy or they had some misleading analysis results they put 99 for this feature.
