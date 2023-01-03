@@ -41,5 +41,5 @@ We can see that columns ICU and INTUBED are connected with PATIENT_TYPE column a
 
 All other columns have only one number for missing value. PNEUMONIA column has value = 99 all others have value = 98. I considered them as missing values and droped observations containing them.
 
-You can download this dataset from kaggle with the link below:
+You can download the dataset from kaggle with the link below:
 https://www.kaggle.com/datasets/meirnizri/covid19-dataset
